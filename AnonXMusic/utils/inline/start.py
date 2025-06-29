@@ -30,7 +30,7 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_6"], url="https://t.me/do_pal0),
+            InlineKeyboardButton(text=_["S_B_6"], url="https://t.me/do_pal0"),
             InlineKeyboardButton(text=_["S_B_7"], user_id="7563210190"),
         ],
     ]
