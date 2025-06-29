@@ -31,7 +31,8 @@ def private_panel(_):
         ],
         [
             InlineKeyboardButton(text=_["S_B_6"], url="https://t.me/do_pal0"),
-            InlineKeyboardButton(text=_["S_B_7"], callback_data=""),
+            InlineKeyboardButton(text=_["S_B_7"], await message.video(
+        video="https://files.catbox.moe/e0d6wo.mp4"),
         ],
     ]
     return buttons
