@@ -25,7 +25,7 @@ yt-dlp
 youtube-search
 youtube-search-python
 git+https://github.com/AsmSafone/SafoneAPI
-pyrogram==2.0.106
+pyrogram
 pycountry
 gitpython
 gtts
