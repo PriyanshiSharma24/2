@@ -92,11 +92,7 @@ HELP_8 = """
 HELP_9 = """
 <u><b>ᴇxᴛʀᴧ</b></u> :
 
-/ip - check ip address information 
-
 /sg - check username history 
-
-/fake - gen fake address information 
 
 /bin - gen bin
 """
